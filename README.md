@@ -16,8 +16,6 @@ If you find any errors, feel free to create a pull request, I will try to fix it
 <br>
 <br>
 <br>
-<br>
-<br>
 
 
  Gif By Jonny Hyman - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=86422564
